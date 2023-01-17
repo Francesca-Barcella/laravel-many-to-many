@@ -13,4 +13,6 @@
 <div class="type"> <strong>Type project:</strong> {{$project->type ? $project->type->name : 'Uncatecorized'}}</div>
 <div class="content"> <strong>Descritpion project:</strong> {{$project->description}}</div>
 
+<div>prova per push nuovo progetto</div>
+
 @endsection
